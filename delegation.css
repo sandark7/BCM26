@@ -1,0 +1,36 @@
+/* Дополнения к оригинальной теме sandark7/DE26. Размер холста Shower — 1024×576. */
+:root { --acid: #ffff72; --paper: #f3f0e9; --ink: #15271f; --magnit-red: #e7000f; }
+/* --magnit-red: token-colors-red-bg на официальном magnit.com.
+   Исходные фоны DE26 сохраняют зерно, пятна света и плавные переходы.
+   Режим color меняет их тон, сохраняя светлоту исходной фотографии. */
+.bgl:nth-child(3n) { --slide-texture: url("pictures/bg14.jpg"); }
+.bgl:nth-child(3n+1) { --slide-texture: url("pictures/bg8.jpg"); }
+.bgl:nth-child(3n+2) { --slide-texture: url("pictures/bg13.jpg"); }
+.bgi:nth-child(4n) { --slide-texture: url("pictures/bg1.jpg"); }
+.bgi:nth-child(4n+1) { --slide-texture: url("pictures/bg2.jpg"); }
+.bgi:nth-child(4n+2) { --slide-texture: url("pictures/bg7.jpg"); }
+.bgi:nth-child(4n+3) { --slide-texture: url("pictures/bg10.jpg"); }
+.bgt:nth-child(13n) { --slide-texture: url("pictures/bg3.jpg"); }
+.bgt:nth-child(13n+1) { --slide-texture: url("pictures/bg4.jpg"); }
+.bgt:nth-child(13n+2) { --slide-texture: url("pictures/bg5.jpg"); }
+.bgt:nth-child(13n+3) { --slide-texture: url("pictures/bg6.jpg"); }
+.bgt:nth-child(13n+4) { --slide-texture: url("pictures/bg9.jpg"); }
+.bgt:nth-child(13n+5) { --slide-texture: url("pictures/bg11.jpg"); }
+.bgt:nth-child(13n+6) { --slide-texture: url("pictures/bg12.jpg"); }
+.bgt:nth-child(13n+7) { --slide-texture: url("pictures/bg15.jpg"); }
+.bgt:nth-child(13n+8) { --slide-texture: url("pictures/bg16.jpg"); }
+.bgt:nth-child(13n+9) { --slide-texture: url("pictures/bg17.jpg"); }
+.bgt:nth-child(13n+10) { --slide-texture: url("pictures/bg18.jpg"); }
+.bgt:nth-child(13n+11) { --slide-texture: url("pictures/bg19.jpg"); }
+.bgt:nth-child(13n+12) { --slide-texture: url("pictures/bg20.jpg"); }
+.slide.bgt, .slide.bgl, .slide.bgi {
+  background-color: #660612;
+  background-image: linear-gradient(rgba(23, 0, 4, .24), rgba(23, 0, 4, .24)), linear-gradient(132deg, #530913 0%, #c92520 55%, var(--magnit-red) 100%), var(--slide-texture);
+  background-blend-mode: normal, color, normal;
+}
+
+.slide.label-header h2 { background-color: rgba(52, 0, 9, .48); }
+.notes { display:none; }
+.telegram-qr {width:240px;padding:40px;top:54%;background:#fff;}
+.slide .telegram-link {left:0;bottom:4%;text-align:center;}
+@media (prefers-reduced-motion:reduce){.shower.full .slide.active .shout {animation-duration:.001ms;}}
