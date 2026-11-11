@@ -34,3 +34,19 @@
 .telegram-qr {width:240px;padding:40px;top:54%;background:#fff;}
 .slide .telegram-link {left:0;bottom:4%;text-align:center;}
 @media (prefers-reduced-motion:reduce){.shower.full .slide.active .shout {animation-duration:.001ms;}}
+
+.bordered.frameless { box-shadow: none; }
+/* Вариант списка из присланного Андреем примера: текст слева, иллюстрация справа.
+   Исходные bgl, шрифты, заголовок и холст 1024×576 сохранены. */
+.slide.list-illustrated > ul {
+  width: 470px;
+}
+.slide.list-illustrated > .side-visual {
+  position: absolute;
+  top: 155px;
+  right: 35px;
+  width: 385px;
+  height: 375px;
+  object-fit: contain;
+  object-position: center;
+}

@@ -291,6 +291,7 @@
     {
       "path": "pictures/CF25__hurry.jpeg",
       "repository": "https://github.com/sandark7/CF25",
+      "sha256": "49143c2c0664c8e92a3bd2dde624c50faf6c0c4910f1fe49a122a161e2768b71",
       "commit": "29a1dc9a33df4fd662b909690621552dafe84f6c",
       "upstream_path": "pictures/hurry.jpeg",
       "upstream_blob": "b59fdb74d06dfb9db5e7ab73aaf48fb75b94c9a7",
@@ -299,6 +300,7 @@
     {
       "path": "pictures/CF25__same.jpeg",
       "repository": "https://github.com/sandark7/CF25",
+      "sha256": "4bd2a89e42dc07a2d21c63a87e59d5e264e9d8639a34c9932415f072ca25c479",
       "commit": "29a1dc9a33df4fd662b909690621552dafe84f6c",
       "upstream_path": "pictures/same.jpeg",
       "upstream_blob": "8077266393bfed6f432f50c2055eb88ea943253a",
@@ -307,22 +309,16 @@
     {
       "path": "pictures/DE26__bananameme.jpeg",
       "repository": "https://github.com/sandark7/DE26",
+      "sha256": "fb18b3b9336db834405368578d4c1e767bb54936881abb5806bbbce087267e5a",
       "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
       "upstream_path": "pictures/bananameme.jpeg",
       "upstream_blob": "4759cc27409fbb606682dbb7a1069bc7ab57ad14",
       "url": "https://raw.githubusercontent.com/sandark7/DE26/78bde9d005fe0e0fc607e5a79d27d820974e4bbd/pictures/bananameme.jpeg"
     },
     {
-      "path": "pictures/DE26__flexible.jpeg",
-      "repository": "https://github.com/sandark7/DE26",
-      "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
-      "upstream_path": "pictures/flexible.jpeg",
-      "upstream_blob": "2c9571b9a027165901cd3b0dda95d5a14d367ce6",
-      "url": "https://raw.githubusercontent.com/sandark7/DE26/78bde9d005fe0e0fc607e5a79d27d820974e4bbd/pictures/flexible.jpeg"
-    },
-    {
       "path": "pictures/DE26__kachok.jpeg",
       "repository": "https://github.com/sandark7/DE26",
+      "sha256": "6e62c731eddd8afe4bd60e85e6dfa01622745c6ec686eb5ba24e390da5f4b33c",
       "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
       "upstream_path": "pictures/kachok.jpeg",
       "upstream_blob": "7041c7281d87a2311a35303cc84895ad72238998",
@@ -331,22 +327,16 @@
     {
       "path": "pictures/DE26__lakmus.jpeg",
       "repository": "https://github.com/sandark7/DE26",
+      "sha256": "293a26a5696f3473e4a42958d71d796489326851dc275862aef6f09bd2268158",
       "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
       "upstream_path": "pictures/lakmus.jpeg",
       "upstream_blob": "8676f778f9283f3fd3c76f623caa51921b33a653",
       "url": "https://raw.githubusercontent.com/sandark7/DE26/78bde9d005fe0e0fc607e5a79d27d820974e4bbd/pictures/lakmus.jpeg"
     },
     {
-      "path": "pictures/DE26__success.jpeg",
-      "repository": "https://github.com/sandark7/DE26",
-      "commit": "78bde9d005fe0e0fc607e5a79d27d820974e4bbd",
-      "upstream_path": "pictures/success.jpeg",
-      "upstream_blob": "dae0dcdb87948eb3133d844874fa425b05c57274",
-      "url": "https://raw.githubusercontent.com/sandark7/DE26/78bde9d005fe0e0fc607e5a79d27d820974e4bbd/pictures/success.jpeg"
-    },
-    {
       "path": "pictures/GMS26__change.jpeg",
       "repository": "https://github.com/sandark7/GMS26",
+      "sha256": "6080e394dbb265afbb862603f3fbeb308910a47be43593c91a715db6f7e0bf22",
       "commit": "11983d2beee285ead4ee89033b4473c1dbe4c8db",
       "upstream_path": "pictures/change.jpeg",
       "upstream_blob": "b2b65ccb2c3bab7dbf3f4c26020170a30edcbc24",
@@ -355,6 +345,7 @@
     {
       "path": "pictures/GMS26__month.jpg",
       "repository": "https://github.com/sandark7/GMS26",
+      "sha256": "9473add99f563aff8f8327d57d55a4dd977e129e5a1f9b0646bd1f1b706c52ca",
       "commit": "11983d2beee285ead4ee89033b4473c1dbe4c8db",
       "upstream_path": "pictures/month.jpg",
       "upstream_blob": "098a93e86c6f0c10cc7a60d83daa81ad5a342d9b",
@@ -363,6 +354,7 @@
     {
       "path": "pictures/GMS26__open-minded.jpeg",
       "repository": "https://github.com/sandark7/GMS26",
+      "sha256": "6223e116517d92ed60adb6b03bee3a9fd62dbeadddf1077250820fe0cdafd663",
       "commit": "11983d2beee285ead4ee89033b4473c1dbe4c8db",
       "upstream_path": "pictures/open-minded.jpeg",
       "upstream_blob": "3dfe0e6a9f5a123fd7e028d467ba43c977f21e69",
@@ -371,6 +363,7 @@
     {
       "path": "pictures/GMS26__wrong.jpeg",
       "repository": "https://github.com/sandark7/GMS26",
+      "sha256": "c6bed974069bc31b29bc60603d0ee50690e9349ceef95c76cef731cccd1dd1ef",
       "commit": "11983d2beee285ead4ee89033b4473c1dbe4c8db",
       "upstream_path": "pictures/wrong.jpeg",
       "upstream_blob": "4795d1948638d230450480285e9a321ab580d661",
@@ -379,6 +372,7 @@
     {
       "path": "pictures/PM25__horse.jpg",
       "repository": "https://github.com/sandark7/PM25",
+      "sha256": "1a43a68b08e628bf2ca9d22eb7672ed15e7f2e74ec1b2fda6e457189b2ebfa3b",
       "commit": "269c3ff62020846797c59914ce3b6ad026dcf7f6",
       "upstream_path": "pictures/horse.jpg",
       "upstream_blob": "6194256b856b844eb74fbd515ab8b4f2124e16bd",
@@ -387,6 +381,7 @@
     {
       "path": "pictures/PM25__notsure.jpg",
       "repository": "https://github.com/sandark7/PM25",
+      "sha256": "649ba2d798c7d62c1ee7f41d87898445a6001b53df6dbbfdbaebfd6e71d9ceaa",
       "commit": "269c3ff62020846797c59914ce3b6ad026dcf7f6",
       "upstream_path": "pictures/notsure.jpg",
       "upstream_blob": "482cbca78cb21fd477b7e8960d959fc3b01e067e",
@@ -395,6 +390,7 @@
     {
       "path": "pictures/PSC25__cat.jpeg",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "b3d18c102ac8cf1aabdd9d02660cfba16b77feaffe1e960102669bd205ff21bd",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/cat.jpeg",
       "upstream_blob": "5cbbfc30daa81aa42fd971f560cfd3e1eff59369",
@@ -403,22 +399,16 @@
     {
       "path": "pictures/PSC25__chaos.gif",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "2e5bb9652d16ed69b128cd27f25aba0ae73297118d5b0df4df5fcd6db84174f5",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/chaos.gif",
       "upstream_blob": "c91589c1080a4701d6e6c678caa403fe8c57ede9",
       "url": "https://raw.githubusercontent.com/sandark7/PSC25/8630b46e583a2efca7e14e2ae59b73d63f828e08/pictures/chaos.gif"
     },
     {
-      "path": "pictures/PSC25__gocat.jpg",
-      "repository": "https://github.com/sandark7/PSC25",
-      "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
-      "upstream_path": "pictures/gocat.jpg",
-      "upstream_blob": "8648b611d8d007d26596776d530e5cae2c150c6e",
-      "url": "https://raw.githubusercontent.com/sandark7/PSC25/8630b46e583a2efca7e14e2ae59b73d63f828e08/pictures/gocat.jpg"
-    },
-    {
       "path": "pictures/PSC25__happy.png",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "f56f0d4c58449a9b5ff18758e7a396464d48571bc11e7da1b00207258ef37ef7",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/happy.png",
       "upstream_blob": "430d38112dcd64c59b21145f65df37e7db432ad2",
@@ -427,6 +417,7 @@
     {
       "path": "pictures/PSC25__magic.gif",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "e05449b386697e783cec861abe11d5f8584c6e681a2015ddb8fb7c4fa12ce3f7",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/magic.gif",
       "upstream_blob": "7a00cb27abd258bf52bc03362701d63080cebaf0",
@@ -435,6 +426,7 @@
     {
       "path": "pictures/PSC25__pepe.jpeg",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "b93694abd8e9d9d3aa254309a74fbbd5c8974de31b11c41ba7684f0e06516cce",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/pepe.jpeg",
       "upstream_blob": "094a1cf4362e1e8e1333730665036f9716ced863",
@@ -443,6 +435,7 @@
     {
       "path": "pictures/PSC25__research.jpeg",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "30208cbfc835056ce143d7f448854d868f12fb33122d3dd5a696140990ca338c",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/research.jpeg",
       "upstream_blob": "e5b071c56177b71c911ae558a65969c11f4834a6",
@@ -451,6 +444,7 @@
     {
       "path": "pictures/PSC25__same.jpg",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "d4a4c765e9f4b98d3715b91656b452fefd387c7254b4930712b4de8cc29ab3f7",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/same.jpg",
       "upstream_blob": "8cb4b6af58c3ccb31552e08b76a86ba8a32fb501",
@@ -459,6 +453,7 @@
     {
       "path": "pictures/PSC25__super.jpeg",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "92ab9a6fd082167659750ccb48da45fce242ece973c390d31e1fa7921441cd2a",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/super.jpeg",
       "upstream_blob": "d9b5a4bce9423d5017e003c7ad6fd79197cd39a2",
@@ -467,6 +462,7 @@
     {
       "path": "pictures/PSC25__thinking.png",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "b99a2ce7c2e12dcae5ef250fa5630e69eaf417c5800f6c2519902833d48740d8",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/thinking.png",
       "upstream_blob": "79ea72c03d2e54178c31f1558ee97f6007601a7a",
@@ -475,6 +471,7 @@
     {
       "path": "pictures/PSC25__whatelse.jpg",
       "repository": "https://github.com/sandark7/PSC25",
+      "sha256": "94deed213198c23159d683aea6ef6ada3eedf58683d2e70ef183b8383427a686",
       "commit": "8630b46e583a2efca7e14e2ae59b73d63f828e08",
       "upstream_path": "pictures/whatelse.jpg",
       "upstream_blob": "7389aa1652cae6c7bf6be40c517287bc6e1a591a",
@@ -483,6 +480,7 @@
     {
       "path": "pictures/SM25__approved.jpeg",
       "repository": "https://github.com/sandark7/SM25",
+      "sha256": "97439fb00aa7094cd6bd86da991e99a94782c4fc41b16d7ea4535e8200d552fa",
       "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
       "upstream_path": "pictures/approved.jpeg",
       "upstream_blob": "003672c119e7ecd85745293608968ee17fa82458",
@@ -491,22 +489,16 @@
     {
       "path": "pictures/SM25__boss.webp",
       "repository": "https://github.com/sandark7/SM25",
+      "sha256": "cfcb85f2fac4c500fcb0a517d2a133714aa299db8bddf14ceeae3192d111e020",
       "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
       "upstream_path": "pictures/boss.webp",
       "upstream_blob": "9e51f5c0812ebed340e5c7d46bc54c942ca26e5f",
       "url": "https://raw.githubusercontent.com/sandark7/SM25/42dde99732327493775cc0e5855851ce4db38ba0/pictures/boss.webp"
     },
     {
-      "path": "pictures/SM25__deleg.jpeg",
-      "repository": "https://github.com/sandark7/SM25",
-      "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
-      "upstream_path": "pictures/deleg.jpeg",
-      "upstream_blob": "7a98d826dfd7fd2a5650be43bd389dc9cadff3d2",
-      "url": "https://raw.githubusercontent.com/sandark7/SM25/42dde99732327493775cc0e5855851ce4db38ba0/pictures/deleg.jpeg"
-    },
-    {
       "path": "pictures/SM25__explain.jpg",
       "repository": "https://github.com/sandark7/SM25",
+      "sha256": "a06210e432150a271fe501314406bf829056127dbf76d18203baf9dd2cfcb6e1",
       "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
       "upstream_path": "pictures/explain.jpg",
       "upstream_blob": "39138e154f4ec2e0462de340d9f15f1940e2d363",
@@ -515,6 +507,7 @@
     {
       "path": "pictures/SM25__no-2.jpeg",
       "repository": "https://github.com/sandark7/SM25",
+      "sha256": "228ec571251be204d7598b8fa4482a30a94e0fe7a14af65b4cb45022e58a1ada",
       "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
       "upstream_path": "pictures/no-2.jpeg",
       "upstream_blob": "cd75425410a237002a012feb79f02e9b0dcec49d",
@@ -523,26 +516,221 @@
     {
       "path": "pictures/SM25__no.jpg",
       "repository": "https://github.com/sandark7/SM25",
+      "sha256": "5d7c0e5c5d0752714b5b15f5439a2f7464a8cf6ca77cf21b3d993e74e017bb10",
       "commit": "42dde99732327493775cc0e5855851ce4db38ba0",
       "upstream_path": "pictures/no.jpg",
       "upstream_blob": "b5b42d096419777e512b18dfd1ff3977af136cfb",
       "url": "https://raw.githubusercontent.com/sandark7/SM25/42dde99732327493775cc0e5855851ce4db38ba0/pictures/no.jpg"
     },
     {
-      "path": "pictures/gross.png",
-      "repository": "https://github.com/sandark7/AC26",
-      "commit": "1d2865ff777ab1365dd179109aff8ee342d5d68d",
-      "upstream_path": "pictures/gross.png",
-      "upstream_blob": "906a07512244b4b7266c8cf4dbd255503ebca2de",
-      "url": "https://raw.githubusercontent.com/sandark7/AC26/1d2865ff777ab1365dd179109aff8ee342d5d68d/pictures/gross.png"
+      "path": "pictures/ITP25__history.jpeg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "99cee0df08cae370bb74fa0afc92a0275c8c84fea810201efca84f9bb9445e6d",
+      "url": "https://sandark7.github.io/ITP25/pictures/history.jpeg",
+      "source_slide": "https://sandark7.github.io/ITP25/#50",
+      "upstream_blob": "fbc85ea07e4efdf1d94fb964545f2edacdb6bc27"
     },
     {
-      "path": "pictures/label-milk-artwork.png",
+      "path": "pictures/ITP25__burn.jpeg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "f43946423f69924cd29f7df95e741fc555beb2f6baddd2a4c451c15f83e894fa",
+      "url": "https://sandark7.github.io/ITP25/pictures/burn.jpeg",
+      "source_slide": "https://sandark7.github.io/ITP25/#75",
+      "upstream_blob": "593ca42d6830c1f2fc49e2330b94ef4000042387"
+    },
+    {
+      "path": "pictures/ITP25__1-1.jpeg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "a63d1514211c3d0f23e688fcea5c699985cb60ee45f2cd0ad04da87ed6b48d1d",
+      "url": "https://sandark7.github.io/ITP25/pictures/1-1.jpeg",
+      "source_slide": "https://sandark7.github.io/ITP25/#55",
+      "upstream_blob": "57c58e5f224c18d1dde913eb886b9e3f69bf7a63"
+    },
+    {
+      "path": "pictures/CodeFest2023__razmykaem.png",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "1dc7e288fd80b882d8be5bd18c7dd5e93a67c14dfaf588d2b4fdb0363e44a7f0",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/razmykaem.png",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#44",
+      "upstream_blob": "114115e45480e8a8dcccc7f579ec2b47d4b1d439"
+    },
+    {
+      "path": "pictures/CodeFest2023__razmykaem-2.png",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "701282b43a1a68d0594df2009b2e7b0a595286d8d721ee326d1c82beef944e6e",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/razmykaem-2.png",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#45",
+      "upstream_blob": "a2e967d4c0ff558dd6ae10df8d4957ffd5f3c398"
+    },
+    {
+      "path": "pictures/CodeFest2023__razmykaem-3.png",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "987e6a6ca5845709edaab8ea510033d62bebe7a65af55bb2b67a35f64ae28e58",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/razmykaem-3.png",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#46",
+      "upstream_blob": "6824ef1fafd1f644014015168f775b3034050664"
+    },
+    {
+      "path": "pictures/CodeFest2023__checklist.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "2f0533cffba6d9f84bfb4b564265945362c465afba314837daf541bb4a564edd",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/checklist.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#40",
+      "upstream_blob": "d487206b0ab72b50ba589eec1c61d697a4773386"
+    },
+    {
+      "path": "pictures/CodeFest2023__pain.jpg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "e650e912b0e688de0cb5e66df98c7ff302d5a5fafe86230aaa1e2f26dc680bd6",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/pain.jpg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#35",
+      "upstream_blob": "968ea088a32dabd57ea6773143552efe6e06c5ef"
+    },
+    {
+      "path": "pictures/UDW23__network.png",
+      "repository": "https://github.com/sandark7/UDW23",
+      "sha256": "a831b88285e0f601e836687c4c1824cac1db1707962bdbaf0cca64d53e866103",
+      "url": "https://sandark7.github.io/UDW23/pictures/network.png",
+      "source_slide": "https://sandark7.github.io/UDW23/#46",
+      "upstream_blob": "f3dd7f76c57f5a6a2d45e144ce55e59b13d625ba"
+    },
+    {
+      "path": "pictures/UDW23__zhdun.jpeg",
+      "repository": "https://github.com/sandark7/UDW23",
+      "sha256": "dca5fac6a414d5d2de8f6f070e892869402e33171954f268e35bb61021fca6fc",
+      "url": "https://sandark7.github.io/UDW23/pictures/zhdun.jpeg",
+      "source_slide": "https://sandark7.github.io/UDW23/#61",
+      "upstream_blob": "22826a81b7dc9c70f54552a8f8fe3049bf6aed6d"
+    },
+    {
+      "path": "pictures/AlfaJS2022__vacation.jpeg",
+      "repository": "https://github.com/sandark7/AlfaJS2022",
+      "sha256": "25d6e60d9f82fd5263b9638297460c4d80076e78207b6894341c5172b39aaf8f",
+      "url": "https://sandark7.github.io/AlfaJS2022/pictures/vacation.jpeg",
+      "source_slide": "https://sandark7.github.io/AlfaJS2022/#27",
+      "upstream_blob": "13422f1a14591ecc23f7876d52ea8545ed244aea"
+    },
+    {
+      "path": "pictures/CodeFest2023__jira.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "1dc7d292724c2eb4406bfb5538cd1a342f17635c247d2b2a111888e2af101b6e",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/jira.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#23",
+      "upstream_blob": "ed1d1cdae7d29eb3455f764b2c1a518fd333dc2f"
+    },
+    {
+      "path": "pictures/CodeFest2023__evolution.png",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "ee18f4a8de21667024125aac278efdba5d6adb5c6bb3dc967569994bf5246a12",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/evolution.png",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#27",
+      "upstream_blob": "4519329edde27e1b8db64334322a959f194b7deb"
+    },
+    {
+      "path": "pictures/CodeFest2023__norma.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "9886d091aa7820cd0c241e1c3e2cbe326a38d7ac19fecaaba194f2f38558879a",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/norma.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#28",
+      "upstream_blob": "934f5076e52cf7d39d5acb85dfd0a80c3991539f"
+    },
+    {
+      "path": "pictures/AC26__stories.jpeg",
       "repository": "https://github.com/sandark7/AC26",
-      "commit": "1d2865ff777ab1365dd179109aff8ee342d5d68d",
-      "upstream_path": "pictures/label-milk-artwork.png",
-      "upstream_blob": "986f5a200a0983948a8325b01637619d3042b412",
-      "url": "https://raw.githubusercontent.com/sandark7/AC26/1d2865ff777ab1365dd179109aff8ee342d5d68d/pictures/label-milk-artwork.png"
+      "sha256": "6f724e6e49b2069eac740af36cbe8457a93d6e16375b9a2da7ca0b77ec94a806",
+      "url": "https://sandark7.github.io/AC26/pictures/stories.jpeg",
+      "source_slide": "https://sandark7.github.io/AC26/#how-it-started",
+      "upstream_blob": "e622dd339b3504a9c37e989c253b94ae48dda73f"
+    },
+    {
+      "path": "pictures/CodeFest2023__deleg.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "82f863124f266ebe738be8bcc4f4f88c3809e69e99b9c904dabda7a85721253e",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/deleg.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#34",
+      "upstream_blob": "7a98d826dfd7fd2a5650be43bd389dc9cadff3d2"
+    },
+    {
+      "path": "pictures/ITP25__spiderman.jpg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "95d811f4916fb0abb87c965ce60a939bfaef9cb438cc82604bd750ad4c21fc0e",
+      "url": "https://sandark7.github.io/ITP25/pictures/spiderman.jpg",
+      "source_slide": "https://sandark7.github.io/ITP25/#81",
+      "upstream_blob": "a3e3bc8b248590304362023a8cc03ff61fd847ca"
+    },
+    {
+      "path": "pictures/CodeFest2023__situation.png",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "effff69758131110069a4f9993ddde2cc01bdd106be52209bbda058f76f0ce7e",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/situation.png",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#37",
+      "upstream_blob": "83ed1150ba4d654ab7f4b9a962c2ab83fbcd8313"
+    },
+    {
+      "path": "pictures/CodeFest2023__situation-2.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "ce5c12fad3f735d9a5599d23c09925ef7f05250a882e50cdce085253e575cbf5",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/situation-2.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#38",
+      "upstream_blob": "3d250bfc96820913da7ae431731078a3b23e1bd0"
+    },
+    {
+      "path": "pictures/CodeFest2023__situation-3.jpg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "c7a5b16d3879423e59866b51266b20180dfd370809109f8e955987bcb2bc2868",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/situation-3.jpg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#39",
+      "upstream_blob": "53e04e4c2d39d0dbf9cbca65df7647417813c78d"
+    },
+    {
+      "path": "pictures/ITP25__deleg-perenazn.jpg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "a366214c348d604040db3581c8cf97a21a6c3dd66bf49e6e114cc2b464fc78e0",
+      "url": "https://sandark7.github.io/ITP25/pictures/deleg-perenazn.jpg",
+      "source_slide": "https://sandark7.github.io/ITP25/#67",
+      "upstream_blob": "1f75991d3504a6cf4fcbda387fa5bc3bf9e4ab76"
+    },
+    {
+      "path": "pictures/CodeFest2023__social.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "531af70b248fc7090830492fb888f1a2aed276088bda41443902da34e7a6c9a4",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/social.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#42",
+      "upstream_blob": "a1ba9b7a263afede4df44b51a735da4222227dfc"
+    },
+    {
+      "path": "pictures/CodeFest2023__success.jpeg",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "4e436f619e68914b0ea32c8c92d751f9768126cce14e5951b721a91678e1c5c5",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/success.jpeg",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#48",
+      "upstream_blob": "dae0dcdb87948eb3133d844874fa425b05c57274"
+    },
+    {
+      "path": "pictures/CodeFest2023__nadzor.gif",
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "sha256": "5c610653b587dafafb3e76aa6bc743891a1ce5282c893498a2189ad3ebcbcaf7",
+      "url": "https://sandark7.github.io/CodeFest2023/pictures/nadzor.mov",
+      "source_slide": "https://sandark7.github.io/CodeFest2023/#51",
+      "published_blob": "59b9cec07848f494b63fcec00e2af3fcad97370d",
+      "conversion": "Original 320×180 / 25 fps clip converted to looping GIF for the existing image template",
+      "original_sha256": "8f8a741821c8fee50933a492528ea99b363c516621402f2cda4936fcb8c8e6ba"
+    },
+    {
+      "path": "pictures/ITP25__friendship.jpeg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "e0ccf7a69183703112b7269b0113baa6cbfbd24542e6823ef3d414a83b6661ff",
+      "url": "https://sandark7.github.io/ITP25/pictures/friendship.jpeg",
+      "source_slide": "https://sandark7.github.io/ITP25/#56",
+      "upstream_blob": "d577f5287a87587127f1c702ea8f47bcec95c0bd"
+    },
+    {
+      "path": "pictures/ITP25__explain.jpg",
+      "repository": "https://github.com/sandark7/ITP25",
+      "sha256": "a06210e432150a271fe501314406bf829056127dbf76d18203baf9dd2cfcb6e1",
+      "url": "https://sandark7.github.io/ITP25/pictures/explain.jpg",
+      "source_slide": "https://sandark7.github.io/ITP25/#60",
+      "upstream_blob": "39138e154f4ec2e0462de340d9f15f1940e2d363"
     }
   ],
   "adapted_files": [
@@ -551,10 +739,22 @@
       "repository": "https://github.com/sandark7/AC26",
       "commit": "1d2865ff777ab1365dd179109aff8ee342d5d68d",
       "upstream_path": "agrocon.css",
-      "changes": "Сохранены тонирование фактур и исходная геометрия. Оформление обложки Агрокона не используется."
+      "changes": "Сохранены тонирование фактур и исходная геометрия. Добавлен вариант списка с иллюстрацией справа; у прозрачных изображений убрана рамка."
     }
   ],
   "source_talks": [
+    {
+      "repository": "https://github.com/sandark7/CodeFest2023",
+      "path": "index.html"
+    },
+    {
+      "repository": "https://github.com/sandark7/ITP25",
+      "path": "index.html"
+    },
+    {
+      "repository": "https://github.com/sandark7/UDW23",
+      "path": "index.html"
+    },
     {
       "repository": "https://github.com/sandark7/SM25",
       "path": "index.html"
